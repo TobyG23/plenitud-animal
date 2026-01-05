@@ -1,5 +1,0 @@
-Integrar IA real: Conectar con la API de Claude para consultas veterinarias reales
-Sistema de carrito: Implementar funcionalidad completa de e-commerce
-Base de datos: Conectar productos reales y stock
-Sistema de derivación: Integrar red de veterinarios en Buenos Aires
-Agregar tu logo: Reemplazar el ícono temporal cuando tengas el diseño final
